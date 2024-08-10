@@ -23,3 +23,7 @@ Our project aims to explore and implement steganography techniques to secure use
 - **Steganography Algorithms**: For embedding and extracting hidden information
 
 This project serves as a tool for users to protect their data by hiding it securely and discreetly, leveraging both steganography techniques and a Java Swing-based interface for user interaction.
+
+## Author
+
+- Suraj singh sajwan - [GitHub](https://github.com/surajsajwan00)
