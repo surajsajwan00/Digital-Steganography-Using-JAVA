@@ -13,6 +13,13 @@ Our project aims to explore and implement steganography techniques to secure use
 - **Text Steganography**: Embedding secret messages within plain text files.
 - **Image Steganography**: Hiding data within image files.
 - **Handwritten Text Steganography**: Concealing information in handwritten documents.
+- **Java Swing Frontend**: User-friendly graphical interface for easy interaction with the application.
 - **Data Security**: Using encryption and steganography algorithms for enhanced privacy and protection.
 
-This project serves as a tool for users to protect their data by hiding it securely and discreetly.
+## Technologies Used
+
+- **Java**: Core programming language
+- **Java Swing**: For building the graphical user interface (GUI)
+- **Steganography Algorithms**: For embedding and extracting hidden information
+
+This project serves as a tool for users to protect their data by hiding it securely and discreetly, leveraging both steganography techniques and a Java Swing-based interface for user interaction.
